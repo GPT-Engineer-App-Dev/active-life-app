@@ -20,8 +20,8 @@ const Index = () => {
           </Button>
         </Box>
         <Box display="flex" justifyContent="center" width="100%">
-          <Button as={Link} to="/log-workout" colorScheme="teal" variant="outline" size="lg">
-            Log Workout
+          <Button as={Link} to="/progress-tracking" colorScheme="teal" variant="outline" size="lg">
+            View Progress
           </Button>
         </Box>
       </VStack>
